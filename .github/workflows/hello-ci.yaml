@@ -17,7 +17,7 @@ jobs:
       - name: your name
         run: echo "your name is Swaim Sahay "
 
-secrets-demo:
+  secrets-demo:
     runs-on: ubuntu-latest
     steps:
       - name: Check secret
